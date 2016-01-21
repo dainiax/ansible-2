@@ -1,1 +1,4 @@
-# ansible-2
+# ansible-2-plugins
+
+## Installation
+Move to Ansible2 plugins directory
