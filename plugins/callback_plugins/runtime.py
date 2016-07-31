@@ -1,8 +1,8 @@
 from __future__ import (absolute_import, division, print_function)
-__metaclass__ = type
-
 from datetime import datetime
 from ansible.plugins.callback import CallbackBase
+__metaclass__ = type
+
 
 class CallbackModule(CallbackBase):
     """
